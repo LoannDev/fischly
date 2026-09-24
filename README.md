@@ -2,7 +2,7 @@
 
 # 🎣 Fischly
 
-**Audio-based fishing macro — no VB-Cable, no screen capture, no pixel reading.**
+**Audio-based fishing macro — Made for Hypixel Skyblock**
 
 Fischly listens to your system audio in real-time and detects the fish bite sound using FFT signal matching. When it hears a match, it right-clicks to catch the fish and recasts automatically.
 
